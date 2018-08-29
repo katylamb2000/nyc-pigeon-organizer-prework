@@ -3,6 +3,7 @@ def nyc_pigeon_organizer(data)
   pigeon_hash.each do |gender, params|
     params.each do |male, female|
       new_pigeon_data_hash.push male
+      new_pigeon_data_hash.push efmale
 end
 end
 end
