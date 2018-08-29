@@ -4,3 +4,5 @@ def nyc_pigeon_organizer(data)
     params.each do |male, female|
       new_pigeon_data_hash.push male
 end
+end
+end
